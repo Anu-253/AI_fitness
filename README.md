@@ -46,6 +46,8 @@ Browser (React)
 ## Folder Structure
 
 
+```bash
+
 ai_fitness/
 ├── frontend/                  # React application
 │   └── src/
@@ -69,7 +71,7 @@ ai_fitness/
         ├── connection.py      # MySQL connection pool
         └── models.py          # Table schema definitions
 
-
+```
 ---
 
 ## Setup Instructions
