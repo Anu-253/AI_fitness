@@ -161,18 +161,18 @@ exercise_type : "bicep_curl" | "push_up" | "squat"
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./screenshots/landing.png)
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d1d2073-13e4-42f7-8b82-c7834905fe48" />
 
 
 ### Dashboard with Analytics and Chatbot
-![Dashboard](./screenshots/dashboard.png)
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78554312-2491-42a1-9eef-bdb0a855e2b5" />
 
 
 ### Backend API Logs (FastAPI + Uvicorn)
-![Backend](./screenshots/backend.png)
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88b699aa-0be0-4bf5-aa5e-045b8d2e84e8" />
 
 ---
