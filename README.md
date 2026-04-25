@@ -27,7 +27,7 @@ A full-stack web application for real-time workout tracking using computer visio
 | API Comm. | REST (JSON + multipart/form-data) |
 
 ---
-
+```
 ## Architecture
 
 
@@ -41,7 +41,9 @@ Browser (React)
   └── GET  /api/analytics      →  FastAPI  →  MySQL  →  Dashboard
 
 
+
 ---
+```
 
 ## Folder Structure
 
